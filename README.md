@@ -1,4 +1,4 @@
-Here are some web application practice ideas:
+Web application practices:
 
 1. User Authentication App: Build an app that allows users to register, login, and logout. Implement authentication using sessions or tokens.
 
